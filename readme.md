@@ -1,6 +1,6 @@
 ## pseudocode
 ## Anggaradiva Bendesa
-
+## code ini Dibuat untuk menagih hutang ke teman
 ```bash
 BEGIN
     // Inisialisasi variabel
